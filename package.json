@@ -38,7 +38,7 @@
     "randomstring": "1.x.x",
     "secure-password": "4.x.x",
     "slugify": "1.x.x",
-    "sqlite3": "5.x.x"
+    "sqlite3": "5.1.7"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
